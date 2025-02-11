@@ -1,0 +1,7 @@
+#📉 What is Simple Linear Regression?
+It follows this equation:
+y=mx+b
+y → Predicted value (dependent variable)
+x → Input feature (independent variable)
+m → Slope (how much y changes per unit of x)
+b → Intercept (the value of y when x = 0)
