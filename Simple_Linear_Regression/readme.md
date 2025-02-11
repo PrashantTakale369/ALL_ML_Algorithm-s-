@@ -36,5 +36,3 @@ Smaller MSE = better fit.
 - Estimating sales based on advertising budget
 - Forecasting temperature based on altitude
 
-
-# **2. Simple Linear Regression** ( By Self )  
