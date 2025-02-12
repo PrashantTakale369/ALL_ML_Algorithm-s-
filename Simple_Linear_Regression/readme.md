@@ -22,13 +22,6 @@ Where:
 2. It finds the best possible values for m and c so that the line fits the data with minimal error.
 3. Once trained, you can plug in new x values to predict y.
 
-### **Error Measurement:**
-
-The model minimizes something called **Mean Squared Error (MSE):**
-
-$MSE=n1​∑(yactual​−ypredicted​)2$
-
-Smaller MSE = better fit.
 
 ### **Use Cases:**
 
