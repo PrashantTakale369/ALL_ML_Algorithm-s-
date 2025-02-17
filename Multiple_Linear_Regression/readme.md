@@ -2,6 +2,8 @@ Multiple Linear Regression: The OG of Predictive Modeling
 Multiple Linear Regression (MLR) is like simple linear regression’s big brother—it takes the same concept and cranks it up a notch by handling multiple independent variables instead of just one. It’s all about finding the relationship between a dependent variable (the thing you’re predicting) and multiple independent variables (the factors influencing it).
 
 ![image](https://github.com/user-attachments/assets/41884f82-8d7b-4353-b4c7-4d2eda147984)
+![image](https://github.com/user-attachments/assets/3dfbfd41-bb5d-451f-a863-1af7b6774d45)
+
 
 How It Works
 Data Collection → Gather data with multiple predictor variables.
