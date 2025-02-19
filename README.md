@@ -2,4 +2,4 @@
 
 ## (1) Simple Linear Regression  :- 
 ## (2) Multiple Linear Regression  :- 
-## (2) Gradient Descent  :- 
+## (3) Gradient Descent  :- 
