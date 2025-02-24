@@ -4,3 +4,4 @@
 ## (2) Multiple Linear Regression  :- 
 ## (3) Gradient Descent  :- 
 ## (4) Ridge Regression :-
+## (5) Lasso Regression :-
