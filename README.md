@@ -6,3 +6,5 @@
 ## (4) Ridge Regression :-
 ## (5) Lasso Regression :-
 ## (6) ElasticNet Regression :-
+## (7) Logistic Regression :-
+
