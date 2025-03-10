@@ -7,4 +7,7 @@
 ## (5) Lasso Regression :-
 ## (6) ElasticNet Regression :-
 ## (7) Logistic Regression :-
+## (7) SoftMatrix Regression :-
+## (8) Decision Trees :- 
+
 
