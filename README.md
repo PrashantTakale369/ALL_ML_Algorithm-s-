@@ -12,4 +12,5 @@
 ## (8) SoftMatrix Regression :-
 ## (9) Decision Trees :- 
 
+# Classification Algorithms
 
